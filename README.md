@@ -24,3 +24,5 @@
 ---
 
 ### :man_technologist: About Me :
+I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30"> from Nigeria 🇳🇬.
+
