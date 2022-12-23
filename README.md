@@ -1,3 +1,11 @@
+<p align="center">
+<a href="https://github.com/lawalsegun2025">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Segun+Lawal;Data+Scientist+%7C+Machine+Learning+Engineer;ExploreAI+Academy+Graduate" alt="Typing SVG" />
+</a>
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
   <div id="badges">
