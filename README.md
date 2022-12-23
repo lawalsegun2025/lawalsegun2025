@@ -34,3 +34,15 @@
 ### :man_technologist: About Me :
 I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30"> from Nigeria 🇳🇬.
 
+- :seedling: Constantly Learning to Improve my Skills
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Segun_Lawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lawalsegun2025/)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lawalsegun2025&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalsegun2025&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
