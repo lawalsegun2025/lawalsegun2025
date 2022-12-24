@@ -65,7 +65,7 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
 
 ---
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
