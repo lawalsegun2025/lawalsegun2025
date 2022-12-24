@@ -74,4 +74,6 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
   <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy" title="Numpy" alt="Numpy" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter" title="Jupyter" alt="Jupyter" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda" title="Anaconda" alt="Anaconda" width="80" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" title="Docker" alt="Docker" width="80" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" title="Streamlit" alt="Streamlit" width="80" height="20"/>&nbsp;
 </div>
