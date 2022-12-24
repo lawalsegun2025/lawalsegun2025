@@ -76,5 +76,5 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
   <img src="https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda" title="Anaconda" alt="Anaconda" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" title="Docker" alt="Docker" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" title="Streamlit" alt="Streamlit" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Comet-black?style=flat-square&logo=comet" title="Comet" alt="Comet" width="80" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" title="Git" alt="Git" width="80" height="20"/>&nbsp;
 </div>
