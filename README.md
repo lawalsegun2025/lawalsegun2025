@@ -70,5 +70,7 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" title="Python" alt="Python" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" title="Pandas" alt="Pandas" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" title="Pandas" alt="Pandas" width="80" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy" title="Numpy" alt="Numpy" width="80" height="20"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter" title="Jupyter" alt="Jupyter" width="80" height="20"/>&nbsp;
 </div>
