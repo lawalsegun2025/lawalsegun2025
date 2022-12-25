@@ -32,7 +32,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30"> from Nigeria 🇳🇬.
+I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30">.
 
 - :seedling: Constantly Learning to Improve my Skills
 
@@ -48,7 +48,7 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyterlab/jupyterlab-plain-wordmark.svg" title="Jupyterlab" alt="Jupyterlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
