@@ -47,14 +47,14 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensoreFlow" **alt="TensoreFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
 </div>
@@ -68,20 +68,4 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawalsegun2025&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" title="Python" alt="Python" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" title="Pandas" alt="Pandas" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy" title="Numpy" alt="Numpy" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter" title="Jupyter" alt="Jupyter" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda" title="Anaconda" alt="Anaconda" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" title="Docker" alt="Docker" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" title="Streamlit" alt="Streamlit" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" title="Git" alt="Git" width="50" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" title="Kaggle" alt="Kaggle" width="80" height="20"/>&nbsp;
-   <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow" title="TensorFlow" alt="TensorFlow" width="80" height="20"/>&nbsp;
-</div>
