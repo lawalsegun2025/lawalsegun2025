@@ -79,4 +79,5 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
   <img src="https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit" title="Streamlit" alt="Streamlit" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" title="Git" alt="Git" width="50" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" title="Kaggle" alt="Kaggle" width="80" height="20"/>&nbsp;
+   <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow" title="TensorFlow" alt="TensorFlow" width="80" height="20"/>&nbsp;
 </div>
