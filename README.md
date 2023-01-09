@@ -34,7 +34,7 @@
 ### :man_technologist: About Me :
 I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30">.
 
-- :seedling: Constantly Learning to Improve my Skills
+- :seedling: Constantly Learning to Improve my Skills;
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Segun_Lawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lawalsegun2025/)
 
