@@ -42,10 +42,9 @@ I am a Data Scientist and Machine Learning Engineer <img src="https://media.giph
 
 ### :bulb: Skills
 - Python Programming
-- Data Wrangling
 - Machine Learning
 - Deep Learning
-- Processing large data set
+- Data Science
 
 ---
 
