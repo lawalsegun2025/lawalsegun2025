@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/lawalsegun2025">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Segun+Lawal;Data+Scientist+%7C+Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Segun+Lawal;Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </a>
 
 
